@@ -1,2 +1,2 @@
-# Introduction-to-GenAI-Assignment-2
+# Introduction-to-GenAI
 ReAct Agent using Gemini and document search
